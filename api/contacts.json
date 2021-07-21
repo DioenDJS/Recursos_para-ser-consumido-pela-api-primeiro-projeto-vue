@@ -1,0 +1,27 @@
+[
+  {
+    "title":"Canal do YouTube",
+    "label":"youtube.com/dioendjs",
+    "link":"https://youtube.com"
+  },
+  {
+    "title":"Instagram",
+    "label":"instagram.com/diovaneluispachetinunes",
+    "link":"https://instagram.com/diovaneluispachetinunes"
+  },
+  {
+    "title":"Facebook",
+    "label":"facebook.com/dioendjs",
+    "link":"https://facebook.com"
+  },
+  {
+    "title":"Twitter",
+    "label":"twitter.com/DioEndjs?=09",
+    "link":"https://twitter.com/DioEndjs?=09"
+  },
+  {
+    "title":"E-mail",
+    "label":"dioendtsx@gmail.com",
+    "link":"mailto:dioendtsx@gmail.com"
+  }
+]
