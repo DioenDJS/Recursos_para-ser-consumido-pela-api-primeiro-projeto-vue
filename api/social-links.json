@@ -6,12 +6,12 @@
   },
   {
     "label":"Facebook",
-    "icon":"https://raw.githubusercontent.com/DioenDJS/Recursos_para-ser-consumido-pela-api-primeiro-projeto-vue/blob/main/assets/icons/facebook.svg",
+    "icon":"https://raw.githubusercontent.com/DioenDJS/Recursos_para-ser-consumido-pela-api-primeiro-projeto-vue/master/assets/icons/facebook.svg",
     "link":"https://facebook.com"
   },
   {
     "label":"Twitter",
-    "icon":"https://raw.githubusercontent.com/william-costa/wdev-mock-site-resources/master/assets/icons/twitter.svg",
+    "icon":"https://raw.githubusercontent.com/DioenDJS/Recursos_para-ser-consumido-pela-api-primeiro-projeto-vue/master/assets/icons/twitter.svg",
     "link":"https://twitter.com/DioEndjs?=09"
   }
 ]
